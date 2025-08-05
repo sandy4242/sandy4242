@@ -10,10 +10,7 @@
 - ⚡ Fun fact **Chess rating-1100+, Madrid Fan**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sandeep-sarkar-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-sarkar-cse" height="30" width="40" /></a>
-<a href="https://instagram.com/sandy_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandy_11" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandy4242&show_icons=true&locale=en&layout=compact" alt="sandy4242" /></p>
 
