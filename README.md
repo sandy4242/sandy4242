@@ -23,6 +23,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sandy4242&theme=dark&hide_border=false)<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandy4242&show_icons=true&locale=en&layout=compact" alt="sandy4242" /></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sandy4242&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sandy4242&icon=0&color=0)](https://visitcount.itsvg.in)
