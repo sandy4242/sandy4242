@@ -21,7 +21,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sandy4242&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sandy4242&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandy4242&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandy4242&show_icons=true&locale=en&layout=compact" alt="sandy4242" /></p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sandy4242&icon=0&color=0)](https://visitcount.itsvg.in)
