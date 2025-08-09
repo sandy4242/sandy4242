@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sandeepsarkar316@gmail.com**
 
-- ⚡ Fun fact **Chess rating-1300+, Madrid Fan**
+- ⚡ Fun fact **Chess rating-1200+, Madrid Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
