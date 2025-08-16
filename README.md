@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sandeep Sarkar</h1>
+<h1 align="center">Hi, I'm Sandeep Sarkar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p/>A tech guy from INDIA, loves learning, building and has a bad sleep schedule</p>
+<p/>running for jobs, probably yes... actually no</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy4242&label=Profile%20views&color=0e75b6&style=flat" alt="sandy4242" /> </p>
 
