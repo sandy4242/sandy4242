@@ -3,13 +3,13 @@
 <p/>A tech guy from INDIA, loves learning, building and has a bad sleep schedule</p>
 <p/>running for jobs, probably yes... actually no</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy4242&label=Profile%20views&color=0e75b6&style=flat" alt="sandy4242" /> </p>
-
 - 💬 Ask me about **Flutter, Dart, App Dev, Web Dev, Robotics, anything techy**
 
 - 📫 How to reach me **sandeepsarkar316@gmail.com**
 
 - ⚡ Fun fact **Chess rating-1200+, Madrid Fan**
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy4242&label=Profile%20views&color=0e75b6&style=flat" alt="sandy4242" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +23,4 @@
 
 
 
+[![](https://visitcount.itsvg.in/api?id=sandy4242&icon=0&color=0)](https://visitcount.itsvg.in)
