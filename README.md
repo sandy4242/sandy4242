@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Sandeep Sarkar</h1>
-<h3 align="center">A passionate developer from India</h3>
-<p/>A tech guy from INDIA, loves learning, building and has a bad sleep schedule</p>
+<h3 align="center">loves building</h3>
+<p/>loves learning, building and has a bad sleep schedule</p>
 <p/>running for jobs, probably yes... actually no</p>
 
-- 💬 Ask me about **Flutter, Dart, App Dev, Web Dev, Robotics, anything techy**
+- 💬 Ask me about **Flutter, Dart, App Dev, Web Dev, football, anything techy**
 
 - 📫 How to reach me **sandeepsarkar316@gmail.com**
 
