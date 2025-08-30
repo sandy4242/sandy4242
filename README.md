@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sandeep Sarkar</h1>
-<h3 align="center">loves building</h3>
+<!-- <h3 align="center">loves building</h3> -->
 <p/>loves learning, building and has a bad sleep schedule</p>
 <p/>running for jobs, probably yes... actually no</p>
 
