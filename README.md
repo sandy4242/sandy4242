@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sandeep Sarkar</h1>
+<h1 align="center">Hi, I'm Sandy</h1>
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="200/">
 <!-- <h3 align="center">loves building</h3> -->
 <p/>loves learning, building and has a bad sleep schedule</p>
