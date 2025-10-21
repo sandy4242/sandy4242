@@ -4,7 +4,7 @@
 <p/>loves learning, building and has a bad sleep schedule</p>
 <p/>running for jobs, probably yes... actually no</p>
 
-- 💬 Ask me about **Flutter, Dart, App Dev, Web Dev, football, anything techy**
+- 💬 Ask me about **Flutter, Dart, Rust, App Dev, Web Dev, football, anything techy**
 - ⚡ Fun fact **Chess rating-1200+, Madrid Fan**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy4242&label=Profile%20views&color=0e75b6&style=flat" alt="sandy4242" /> </p>
 
